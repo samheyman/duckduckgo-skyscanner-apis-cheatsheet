@@ -26,6 +26,14 @@ For more information please see official DDG documentation below.
 [https://duckduckgo.com/?q=skyscanner+apis+cheat+sheet&t=hj&ia=cheatsheet&iax=1](https://duckduckgo.com/?q=skyscanner+apis+cheat+sheet&t=hj&ia=cheatsheet&iax=1)
 
 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 ---
 
 # Welcome to DuckDuckHack's Goodies Instant Answers Repository
