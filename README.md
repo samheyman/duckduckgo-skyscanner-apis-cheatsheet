@@ -1,6 +1,6 @@
-# A DDG cheatsheet for Skyscanner's APIs
+# DDG cheatsheet Skyscanner APIs
 
-A simple DDG cheatsheet for Skyscanner's Travel APIS.
+A simple DDG cheatsheet for using Skyscanner's Travel APIS.
 
 ![Screenshot of the DDG cheatsheet for Skyscanner's APIs](/images/DDG_cheatsheet1.png)
 ![Screenshot of the DDG cheatsheet for Skyscanner's APIs](/images/DDG_cheatsheet2.png)
@@ -8,10 +8,12 @@ A simple DDG cheatsheet for Skyscanner's Travel APIS.
 ## Usage
 
 ```shell
-cd /share/goodie/cheat_sheets/json
+cd share/goodie/cheat_sheets/json
 ```
 
-Edit `skyscanner-apis.json` 
+```shell
+vi skyscanner-apis.json
+```
 
 Create pull request on [duckduckgo/zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) 
 
@@ -19,7 +21,7 @@ For more information please see official DDG documentation below.
 
 ## Try it out
 
-![](https://duckduckgo.com/?q=skyscanner+apis+cheat+sheet&t=hj&ia=cheatsheet&iax=1)
+![https://duckduckgo.com/?q=skyscanner+apis+cheat+sheet&t=hj&ia=cheatsheet&iax=1](https://duckduckgo.com/?q=skyscanner+apis+cheat+sheet&t=hj&ia=cheatsheet&iax=1)
 
 
 # Welcome to DuckDuckHack's Goodies Instant Answers Repository
