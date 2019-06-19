@@ -2,6 +2,8 @@
 
 A simple DDG cheatsheet for using Skyscanner's Travel APIS.
 
+## Screenshots
+
 ![Screenshot of the DDG cheatsheet for Skyscanner's APIs](/images/DDG_cheatsheet1.png)
 ![Screenshot of the DDG cheatsheet for Skyscanner's APIs](/images/DDG_cheatsheet2.png)
 
@@ -23,6 +25,8 @@ For more information please see official DDG documentation below.
 
 [https://duckduckgo.com/?q=skyscanner+apis+cheat+sheet&t=hj&ia=cheatsheet&iax=1](https://duckduckgo.com/?q=skyscanner+apis+cheat+sheet&t=hj&ia=cheatsheet&iax=1)
 
+
+---
 
 # Welcome to DuckDuckHack's Goodies Instant Answers Repository
 
